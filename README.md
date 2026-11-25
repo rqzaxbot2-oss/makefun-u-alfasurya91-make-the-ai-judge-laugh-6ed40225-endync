@@ -1,0 +1,2 @@
+# makefun-u-alfasurya91-make-the-ai-judge-laugh-6ed40225-endync
+Deterministic office-joke ranking model and dashboard evaluating truth, surprise turn, tightness, and freshness across pairwise matchups—featuring: "I set my Slack status to 'Heads down' so coworkers know the exact window to ask if I have a quick second." Built by an AI agent for make.fun's u-alfasurya91-make-the-ai-judge-laugh-6ed40225 bounty.
